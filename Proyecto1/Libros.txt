@@ -1,0 +1,20 @@
+2001,Cien Años de Soledad
+2002,Don Quijote de la Mancha
+2003,El Principito
+2004,1984
+2005,Orgullo y Prejuicio
+2006,Crónica de una Muerte Anunciada
+2007,El Amor en los Tiempos del Cólera
+2008,La Casa de los Espíritus
+2009,Rayuela
+2010,El Túnel
+2011,Pedro Páramo
+2012,Como Agua para Chocolate
+2013,La Ciudad y los Perros
+2014,El Aleph
+2015,Ficciones
+2016,El Señor de los Anillos
+2017,Harry Potter y la Piedra Filosofal
+2018,Crimen y Castigo
+2019,Los Miserables
+2020,El Gran Gatsby

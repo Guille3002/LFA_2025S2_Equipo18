@@ -1,0 +1,25 @@
+1001,María González López,2001,Cien Años de Soledad,2024-08-15,2024-09-01
+1002,Carlos Alberto Pérez,2003,El Principito,2024-08-20,2024-09-05
+1003,Ana Sofía Martínez,2005,Orgullo y Prejuicio,2024-08-22,
+1004,José Luis Hernández,2007,El Amor en los Tiempos del Cólera,2024-08-25,2024-09-10
+1001,María González López,2010,El Túnel,2024-08-28,2024-09-12
+1005,Patricia Rodríguez Vega,2012,Como Agua para Chocolate,2024-09-01,
+1006,Miguel Ángel Torres,2001,Cien Años de Soledad,2024-09-02,2024-09-17
+1007,Lucía Isabel Morales,2017,Harry Potter y la Piedra Filosofal,2024-09-03,
+1008,Roberto Carlos Jiménez,2004,1984,2024-08-18,2024-08-30
+1009,Carmen Elena Vargas,2011,Pedro Páramo,2024-08-19,2024-09-02
+1010,Diego Alejandro Ruiz,2016,El Señor de los Anillos,2024-08-21,
+1002,Carlos Alberto Pérez,2018,Crimen y Castigo,2024-08-24,2024-09-07
+1011,Fernanda Guadalupe Sánchez,2002,Don Quijote de la Mancha,2024-08-26,2024-09-09
+1012,Andrés Felipe Castillo,2014,El Aleph,2024-08-29,
+1013,Valeria Cristina Mendoza,2009,Rayuela,2024-09-01,2024-09-15
+1001,María González López,2019,Los Miserables,2024-09-04,
+1014,Sebastián David López,2006,Crónica de una Muerte Anunciada,2024-08-17,2024-08-25
+1015,Gabriela María Ramírez,2020,El Gran Gatsby,2024-08-23,2024-09-06
+1003,Ana Sofía Martínez,2013,La Ciudad y los Perros,2024-08-27,2024-09-11
+1005,Patricia Rodríguez Vega,2008,La Casa de los Espíritus,2024-08-30,
+1007,Lucía Isabel Morales,2015,Ficciones,2024-09-02,2024-09-16
+1004,José Luis Hernández,2001,Cien Años de Soledad,2024-08-16,2024-08-28
+1006,Miguel Ángel Torres,2012,Como Agua para Chocolate,2024-08-31,
+1008,Roberto Carlos Jiménez,2017,Harry Potter y la Piedra Filosofal,2024-09-03,
+1010,Diego Alejandro Ruiz,2003,El Principito,2024-08-14,2024-08-26
